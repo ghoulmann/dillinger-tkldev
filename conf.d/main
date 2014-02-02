@@ -1,7 +1,7 @@
 #!/bin/bash -ex
 git clone https://github.com/joemccann/dillinger.git /opt/dillinger
 dpkg -i /tmp/node_0.10.25-1_i386.deb
-cd /opt/dillinger && npm -i -d
+cd /opt/dillinger && npm -i
 mkdir -p /opt/dillinger/public/files
 #rm /etc/nginx/site-enabled/default
 ln -s /etc/nginx/sites-available/dillinger /etc/nginx/sites-enabled/dillinger
