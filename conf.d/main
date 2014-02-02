@@ -10,4 +10,4 @@ adduser --system --no-create-home --group dillinger
 mkdir -p /opt/dillinger/run
 chown -R dillinger:dillinger /opt/dillinger
 update-rc.d dillinger defaults
-rm /etc/nginx/site-enabled/default
+rm /etc/nginx/sites-enabled/default
