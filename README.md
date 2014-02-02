@@ -1,1 +1,1 @@
-32-bit for TKLDEV by @turnkeylinux
+32-bit for TKLDEV by @turnkey-linux
