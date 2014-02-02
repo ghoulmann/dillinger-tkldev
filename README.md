@@ -1,1 +1,1 @@
-phantomjs npm dependency not building
+32-bit for TKLDEV by @turnkeylinux
